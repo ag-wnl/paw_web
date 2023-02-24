@@ -17,5 +17,3 @@ or
   yarn run dev
 ```
 
-
-```
